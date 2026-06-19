@@ -297,4 +297,4 @@ Through this project:
 ## Author
 
 **Priyam Patel**
-Data Analyst | Analytics Engineering | Business Intelligence
+Data Analyst & Engineering | Analytics Engineering | Business Intelligence
