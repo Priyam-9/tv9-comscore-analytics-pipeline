@@ -348,7 +348,7 @@ def load_to_postgres(df):
         f"Rows loaded: {len(df)}"
     )
 
-# MAIN
+# MAIN.
 
 def main():
 
